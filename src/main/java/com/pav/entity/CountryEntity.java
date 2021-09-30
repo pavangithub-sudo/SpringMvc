@@ -14,7 +14,7 @@ public class CountryEntity {
 	 @Column(name="id")
 	 @GeneratedValue(strategy=GenerationType.IDENTITY)
 	 int id;
-	 
+	 //hello this is git changes
 	 @Column(name="countryName")
 	 String countryName; 
 	 
